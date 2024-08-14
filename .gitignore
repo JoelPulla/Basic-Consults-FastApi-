@@ -1,0 +1,6 @@
+# Ignore Virtualizador
+
+*__pycache__
+*__init__.py
+*venv
+*database.sqlite
